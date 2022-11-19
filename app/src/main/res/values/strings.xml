@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AudioCallApp</string>
+    <string name="demo_call_end_reason_refuse">Request declined</string>
+    <string name="demo_call_end_reason_busy">The line is busy</string>
+    <string name="demo_call_end_reason_busy_remote_no_response">No response</string>
+    <string name="demo_call_end_reason_other_device_refused">Other devices declined</string>
+    <string name="demo_call_end_reason_other_device_agreed">Other devices connected</string>
+    <string name="ease_call_duration">2</string>
+    <string name="please_check">app key not Found</string>
+</resources>
